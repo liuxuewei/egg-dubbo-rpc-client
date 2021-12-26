@@ -1,6 +1,6 @@
 {
   "name": "egg-dubbo-rpc-client",
-  "version": "1.0.0",
+  "version": "1.0.1s",
   "description": "egg dubbo plugin",
   "main": "app.js",
   "directories": {
