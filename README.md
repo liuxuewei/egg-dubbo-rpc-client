@@ -12,8 +12,7 @@ egg dubbo 插件
 
 ```javascript
 exports.dubbo = {
-  enable: true,
-  path: path.join(__dirname, '../lib/plugin/egg-dubbo')
+  enable: true
 }
 ```
 
