@@ -1,6 +1,6 @@
-# egg-dubbo
+# egg-dubbo-rpc-client
 
-egg dubbo 插件, 宋小菜前端团队出品，仅作 NodeParty 会议交流使用
+egg dubbo 插件
 
 ## 使用
 
